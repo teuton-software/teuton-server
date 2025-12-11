@@ -1,5 +1,6 @@
 .yardoc
 html
+private/
 var
 *.gem
 *.devel

@@ -24,6 +24,9 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'rainbow', '~> 3.0'
   s.add_runtime_dependency 'teuton', '~> 2.1', '>= 2.1.3'
+  s.add_runtime_dependency "puma", "~> 7.1" # sinatra
+  s.add_runtime_dependency "rackup", "~> 2.2" # sinatra
+  s.add_runtime_dependency "sinatra", "~> 4.2" # sinatra
 
-  s.add_development_dependency 'minitest', '~> 5.11'
+  s.add_development_dependency 'minitest', '~> 5.11' # TODO change by test-unit
 end

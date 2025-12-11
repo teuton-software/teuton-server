@@ -21,6 +21,6 @@ But with TeutonServer, T-NODE host listen to evaluation requests from S-NODE hos
 
 ## Documentation
 
-* [Installation](file/docs/installation.md)
-* [Start TeutonServer](file/docs/start.md)
-* [Configuration file](file/docs/configfile.md)
+* [Installation](docs/installation.md)
+* [Start TeutonServer](docs/start.md)
+* [Configuration file](docs/configfile.md)
